@@ -6,7 +6,7 @@
 
 </div>
 
-<H3> TechSkill </H3>
+<H3> 💻TechSkill </H3>
 <div>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
  <img src="https://img.shields.io/badge/MySQL-4169E1?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -14,11 +14,11 @@
  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
  <img src="https://img.shields.io/badge/C-4FC08D?style=for-the-badge&logo=C&logoColor=white">
 
-<H3> Infra </H3>
+<H3> ☁️Infra </H3>
 <div>
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 
-<H3> Tools </H3>
+<H3> 🛠️Tools </H3>
 <div>
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white">
