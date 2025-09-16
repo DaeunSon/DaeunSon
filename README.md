@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=DaeunSon&fontAlign=80&fontAlignY=40&color=gradient)
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi👋🏻,+I'm+Son+Daeun;Java,+Spring+Boot+Backend+Developer👩🏻‍💻)](https://git.io/typing-svg)
 
 <div>
 
