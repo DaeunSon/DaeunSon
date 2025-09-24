@@ -56,3 +56,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DaeunSon&show_icons=true&theme=tokyonight" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaeunSon&layout=compact&theme=tokyonight" height="180px"/>
 </div>
+
+## 📫 Contact & Links
+- 📧 Email: sn15dueo@naver.com
+- 📘 Blog: [Velog @sn15dueo](https://velog.io/@sn15dueo/posts)
+
