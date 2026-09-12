@@ -6,8 +6,7 @@
 />
 </a>
 
-
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=DaeunSon&fontAlign=80&fontAlignY=40&color=gradient)
+---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi👋🏻,+I'm+Son+Daeun;Java,+Spring+Boot+Backend+Developer👩🏻‍💻)](https://git.io/typing-svg)
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@sn15dueo/posts)
