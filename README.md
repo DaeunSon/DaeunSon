@@ -66,7 +66,6 @@
 ## 📊 GitHub Stats
 <img src="./profile-3d-contrib/profile-night-rainbow.svg?v=20260913b" alt="GitHub 3D contribution graph" />
 
-## 📫 Contact & Links
+## 📫 Contact
 - 📧 Email: sn15dueo@naver.com
-- 📘 Blog: [Velog @sn15dueo](https://velog.io/@sn15dueo/posts)
 
