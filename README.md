@@ -60,7 +60,7 @@
 ---
 
 ## 📊 GitHub Stats
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D contribution graph" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg?v=20260913" alt="GitHub 3D contribution graph" />
 
 ## 📫 Contact & Links
 - 📧 Email: sn15dueo@naver.com
