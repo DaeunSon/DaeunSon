@@ -60,11 +60,6 @@
 ---
 
 ## 📊 GitHub Stats
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=DaeunSon&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaeunSon&layout=compact&theme=tokyonight" height="180px"/>
-</div>
-
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D contribution graph" />
 
 ## 📫 Contact & Links
