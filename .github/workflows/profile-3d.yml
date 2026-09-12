@@ -18,6 +18,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Hide contribution, star, and fork counts
+        run: python3 .github/scripts/hide-3d-stats.py
       - name: Commit & Push
         run: |
           git config user.name github-actions
