@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/MCP-411E2F?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/requests-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-4FC08D?style=for-the-badge&logo=C&logoColor=white">
 </div>
 
 ### ☁️ Infra & DevOps
