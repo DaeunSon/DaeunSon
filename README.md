@@ -1,3 +1,12 @@
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=DaeunSon&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/DaeunSon"
+  width="600"
+  height="300"
+/>
+</a>
+
+
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=DaeunSon&fontAlign=80&fontAlignY=40&color=gradient)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi👋🏻,+I'm+Son+Daeun;Java,+Spring+Boot+Backend+Developer👩🏻‍💻)](https://git.io/typing-svg)
